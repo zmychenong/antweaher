@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="ant_weather"></dbname>
+    <version value="1" />
+
+    <list>
+        <mapping class="com.sc.antweather.db.Province" />
+        <mapping class="com.sc.antweather.db.City" />
+        <mapping class="com.sc.antweather.db.County" />
+    </list>
+</litepal>
